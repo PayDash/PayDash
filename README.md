@@ -14,7 +14,7 @@
 
 ## **About me**
 <a href="https://github.com/paydash"><img align="left" width="100" src="https://media.discordapp.net/attachments/886611651405684760/1157332962174574723/mfff.webp?ex=651839d0&is=6516e850&hm=a3cec775b2e290e1c901edc210b8f30b1b7be2a2ab903ce92546dca1708d3fca&="></a>
-We Do A little Trolling
+We do a little trolling
 <br><br>
 
 
