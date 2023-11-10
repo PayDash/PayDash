@@ -7,11 +7,6 @@
 
 <a href="https://discord.com/users/706535111914684508"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/706535111914684508?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
-
-### Hi!, I'm **Vibez**
-
-
-## **Github Stats**
 <p align="center"><img width="50%" src="https://freerobuxreal69.vercel.app/api/top-langs/?username=paydash&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
