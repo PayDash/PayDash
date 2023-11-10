@@ -11,12 +11,6 @@
 ### Hi!, I'm **Vibez**
 
 
-## **About me**
-<a href="https://github.com/paydash"><img align="left" width="100" src="https://media.discordapp.net/attachments/886611651405684760/1157332962174574723/mfff.webp?ex=651839d0&is=6516e850&hm=a3cec775b2e290e1c901edc210b8f30b1b7be2a2ab903ce92546dca1708d3fca&="></a>
-We do a little trolling
-<br><br>
-
-
 ## **Github Stats**
 <p align="center"><img width="50%" src="https://freerobuxreal69.vercel.app/api/top-langs/?username=paydash&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
