@@ -8,15 +8,8 @@
 <a href="https://discord.com/users/706535111914684508"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/706535111914684508?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
 
-</div>
 
 
-</div>
-
-
-</div>
-<p align="center"><img width="50%" src="https://freerobuxreal69.vercel.app/api/top-langs/?username=paydash&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
-</p>
 
 
 ## **Spotify**
@@ -26,3 +19,9 @@
 &nbsp;<div align="center">
   [![Spotify](https://spotify-profile-funni.vercel.app/api/spotify)](https://open.spotify.com/user/22kxux94xqwyf9kcbz48nq6qo)
 </div>
+
+
+
+## **Stats**
+<p align="center"><img width="50%" src="https://freerobuxreal69.vercel.app/api/top-langs/?username=paydash&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+</p>
