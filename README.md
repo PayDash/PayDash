@@ -3,7 +3,7 @@
   Hi , I am  Vibez
 </h1>
 <p align='center'>
- Coding Because Im Bored
+ Im lazy as fuck
 </p>
 
  <p align='center'>
