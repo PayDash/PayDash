@@ -1,6 +1,5 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Scribble&size=50&pause=500&color=000000&center=true&vCenter=true&random=false&width=1000&height=100&lines=PayDash)](https://git.io/typing-svg)
 <h1 align='center'>
-  Hi , I am  Vibez
 </h1>
 <p align='center'>
  bored
