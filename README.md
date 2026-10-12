@@ -1,14 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Scribble&size=50&pause=500&color=000000&center=true&vCenter=true&random=false&width=1000&height=100&lines=PayDash)](https://git.io/typing-svg)
+ <p align='center'>
+    <img src="https://i.pinimg.com/736x/e7/60/d0/e760d0049c9515219cb3dcd90224116c.jpg" />
+</p>
 <h1 align='center'>
 </h1>
 <p align='center'>
-☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ → professional idiot ← ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆
+☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆
 </p>
 
 
  <p align='center'>
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF" />
+    <img src="https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term" />
 </p>
 
 <a href="https://freerobuxreal69.vercel.app/api/top-langs/?username=paydash&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"><img align="right" height="250" width="350" src="https://freerobuxreal69.vercel.app/api/top-langs/?username=paydash&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"></a>
